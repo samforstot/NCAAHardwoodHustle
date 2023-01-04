@@ -1,0 +1,558 @@
+Atlantic_10_1
+Davidson Wildcats
+Fordham Rams
+Duquesne Dukes
+Saint_Louis Billikens
+UMass Minutemen
+Dayton Flyers
+George_Washington Colonials
+St._Bonaventure Bonnies
+Atlantic_10_2
+VCU Rams
+Richmond Spiders
+La_Salle Explorers
+Loyola_Chicago Ramblers
+Saint_Joseph's Hawks
+George_Mason Patriots
+Rhode_Island Rams
+Tufts Jumbos
+ACC_1
+Notre_Dame Fighting_Irish
+NC_State Wolfpack
+North_Carolina Tar_Heels
+Virginia Cavaliers
+Virginia_Tech Hokies
+Clemson Tigers
+Duke Blue_Devils
+Miami Hurricanes
+ACC_2
+Wake_Forest Demon Deacons
+Georgia_Tech Yellow_Jackets
+Syracuse_Orange
+Boston_College Eagles
+Pittsburgh Panthers
+Florida_State Seminoles
+Louisville Cardinals
+Emerson Lions
+American_East_1
+Bryant Bulldogs
+UMass_Lowell River_Hawks
+Maine Black Bears
+UMBC Retrievers
+Babson Beavers
+MIT Engineers
+Endicot Gulls
+Framingham_State Rams
+American_East_2
+Binghamton Bearcats
+New_Hampshire Wildcats
+Albany Great_Danes
+NJIT Highlanders
+Vermont Catamounts
+UMass_Darmouth Pirates
+St._Josephs Bluejays
+Clark Cougars
+ASUN_1
+North_Alabama Lions
+Queens Royals
+Jacksonville Dolphins
+Setson Hatters
+FGCU Eagles 
+Kennesaw_State Owls
+Lispcomb Bisons
+Suffolk Rams
+ASUN_2
+Austin_Peays Governors
+Eastern_Kentucky Colonels
+Jacksonville_State Gamecocks
+Bellarmine Knights 
+Liberty Flames
+North_Florida Ospreys
+Central_Arkansas Bears
+Yeshiva Maccabees
+American_1
+Houston Cougars
+East_Carolina Pirates
+UCF Knights
+Tulane Green_Wave
+Memphis Tigers
+Connecticut Camels
+New_England Pilgrims
+Amherst Mammoths
+American_2
+Tulsa Golden_Hurricane
+Temples Owls
+USF Bulls 
+Wichita_State Shockers
+Cincinnati Bearcats
+SMU Mustangs
+Hamilton Continentals
+Bates Bobcats
+Big_12_1
+Kansas Jayhawks
+Kansas_State Wildcats
+Texas Longhorns
+West_Virginia Mountaineers
+Iowa_State Cyclones
+Thiel Thomcats
+Skidmore Thoroughbreds
+Whittier Poets
+Big_12_2
+Texas_Tech Red_Raiders
+Oklahoma_State Cowboys
+Baylor Bears
+Oklahoma Sooners
+TCU Horned_Frogs
+UMass_Boston Beacons
+Conn_College Camels
+Oglethorpe Stormy_Petrels
+Big_East_1
+Creighton Bluejays
+St._John's Red_Storm
+UConn Huskies
+Butler Bulldogs
+Seton-Hall Pirates
+Haverford Fords
+Virginia_Wesleyan Marlins
+Oberline Yeomen
+Big_East_2
+Providence Friars
+Georgetown Hoyas
+Villanova Wildats 
+Xavier Musketeers
+DePaul Blue-Demons
+Marquette Golden_Eagles
+Colby White_Mules
+Stockton Ospreys
+Big_Sky_1
+Montana_State Bobcats
+Sacramento_State Hornets
+Montana Grizzlies
+Portland_State Vikings
+Weber_State Wildcats
+Bowdoin Polar_Bears
+Swarthmore Garnet
+Trinity Bantams
+Big_Sky_2
+Idaho Vandals
+Northern_Colorado Bears
+Northern_Arizona Lumberjacks
+Idaho_State Bengals
+Eastern_Washington Eagles
+UC_Stanta_Cruz Banana_Slugs
+Adrian Bulldogs
+Albright Lions
+Big_South_1
+High_Point Panthers
+UNC_Asheville Bulldogs
+Campbell Fighting_Camels
+Longwood Lancers
+Radford Highlanders
+Austin Kangaroos
+Bard Raptors
+Beloit Buccaneers
+Big_South_2
+Gardner-Webb Runnin'_Bulldogs
+Presbyterian Blue_Hose
+Charleston_Southern Buccaneers
+Winthrop Eagles
+SC_Upstate Spartan
+Bob_Jones Bruins
+Brandeis Judges
+Capital Crusaders
+Big_10_1
+Maryland Terraphins
+Northwestern Wildcats
+Indiana Hoosiers
+Iowa Hawkeyes
+Wisconsin Badgers
+Purdue Boilermakers
+Ohio_State Buckeyes
+Chatham Cougars
+Big_10_2
+Illinois Fighting_Illini
+Michigan Wolverines
+Minnesota Golden_Gophers
+Rutgers Scarlet_Knights
+Michigan_State Spartans
+Nebraska Cornhuskers
+Penn_State Nittany_Lions
+Clarks_Summit Defenders
+Big_West_1
+Cal-State_Fullerton Titans
+UC_Davis Aggies
+UC_Irvine Anteaters
+Cal-State_Bakersfield Roadrunners
+Hawai'i Rainbow_Warriors
+UC_Santa_Barbara Gauchos 
+Concordia Cobbers
+Curry Colonels
+Big_West_2
+UC_San_Diego Tritons
+Cal_Poly Mustangs
+Cal-State_Northridge Matadors
+UC_Riverside Highlanders
+Long_Beach_State Beach
+DePauw Tigers
+Domincan Stars
+Earlham Quakers
+Conference_USA_1
+Middle_Tennessee Blue_Raiders
+Western_Kentucky Hilltoppers
+Florida_Atlantic Owls
+UAB Blazers
+UTSA Roadrunners
+North_Texas Mean_Green
+Eureka Red_Devils
+Finlandia Lions
+Conference_USA_2
+Florida_International Panthers
+Louisiana_Tech Bulldogs
+Rice Owls
+UTEP Miners
+Charlotte 49ers
+Grove_City Wolverines
+Hamline Pipers
+Howard_Payne Yellow_Jackets
+Colonial_Athletic_Association_1
+Towson Tigers
+Charleston Cougars
+Hofstra Pride
+Drexel Dragons
+William_&_Mary Tribe
+UNC_Wilmington Seahawks
+North_Carolina_A&T Aggies
+Juniata Eagles
+Conference_Athletic_Association_2
+Stony_Brook Seawolves
+Hampton Pirates
+Elon Phoenix
+Northeastern Huskies
+Monmouth Hawks
+Delaware Blue_Hens
+Kenyon Owls
+LaGrange Panthers
+Horizon_League_1
+Wright_State Raiders
+Youngstown_State Penguins
+Cleveland_State Vikings
+Detroit_Mercy Titans
+Purdue_Fort_Wayne Mastodons
+Robert_Morris Colonials
+Lycoming Warriors
+Macalester Scots
+Horizon_League_2
+Northern_Kentucky Norse
+IUPUI Jaguars
+Green_Bay Phoenix
+Milwaukee Panthers
+Oakland Golden_Grizzlies
+Marymount Saints
+Maryville Scots
+Marywood Pacers
+Ivy_League
+Yale Bulldogs
+Cornell Big_Red
+Harvard Crimson
+Princeton Tigers
+Pennsylvania Quakers
+Columbia Lions
+Brown Bears
+Dartmouth Big_Green
+Metro_Atlantic_Athletic_1
+Quinnipiac Bobcats
+Iona Gaels
+Niagara Purple_Eagles
+Saint_Peter's Peacocks
+Mount_St.Mary's Mountaineers
+Siena Saints
+McDaniel Green_Terror
+Medaille Mavericks
+Metro_Atlantic_Athletic_2
+Marist Red_Foxes
+Rider Broncs
+Fairfield Stags
+Canisius Golden_Griffins
+Manhattan Jaspers
+Mitchell Mariners
+Montclair_State Red_Hawks
+Mount_Union Purple_Raiders
+Mid-American_1
+Kent_State Golden_Flashes
+Ball_State Cardinals
+Toledo Rockets
+Akron Zips
+Bowling Green_Falcons
+Central_Michigan Chippewas
+New_England Nor'easters
+New_Jersey_City Gothic_Knights
+Mid_American_2
+Western_Michigan Broncos 
+Ohio Bobcats
+Miami Redhawks
+Eastern_Michigan Eagles
+Buffalo Bills
+Northern_Illinois Huskies
+North_Park Vikings
+Norwich Cadets
+Mid-Eastern_Athletic
+Norfolk_State Spartans
+Coppin_State Eagles
+Maryland-Eastern_Shore Hawks
+North_Carolina_Central Eagles
+Howard Bison
+Morgan_State Bears
+Delaware_State Hornets
+South_Carolina_State Bulldogs
+Missouri_Valley_1
+Drake Bulldogs
+Indiana_State Sycamores
+UIC Flames
+Missouri_State Bears
+Bradley Braves
+Murray_State Racers
+Olivet Comets
+Piedmont Lions
+Missouri_Valley_2
+Belmont Bruins
+Valparaiso Beacons
+Illinois_State Redbirds
+Evansville Purple_Aces
+Northern_Iowa Panthers
+Southern_Illinois Salukis
+Ramapo Roadrunners
+Redlands Bulldogs
+Mountain_West_1
+UNLV Rebels
+Utah_State Aggies
+New_Mexico Lobos 
+Nevada Wolf_Pack
+San_Diego_State Aztecs
+San_Jose_State Spartans
+Roanoke Maroons
+Rockford Regents
+Mountain_West_2
+Wyoming Cowboys
+Air_Force Falcons
+Fresno_State Bulldogs
+Colorado_State Rams
+Boise_State Broncos
+St._Lawrence Saints
+St._Mary's Belles
+St._Olaf Oles
+Northeast_1
+Wagner Seahawks
+Sacred_Heart Pioneers
+St._Francis_Brooklyn Terriers
+Fairleigh_Dickinson Knights
+Stonehill Skyhawks
+Susquehanna River_Hawks
+Texas_at_Dallas Comets
+Trine Thunder
+Northeast_2
+Central_Connecticut Blue_Devils
+Long_Island Sharks
+Merrimack Warriors
+St._Francis Red_Flash
+Union Dutchmen
+Vassar Brewers
+Wabash Little_Giants
+Wartburg Knights
+Ohio_Valley_1
+Southeast_Missouri_State Redhawks
+Tennessee_State Tigers
+SIU_Edwardsville Cougars
+Morehead_State Eagles
+Tennessee_Tech Golden_Eagles
+Webster Gorloks
+Wellesley Blue
+Westminster Blue_Jays
+Ohio_Valley_2
+Lindenwood Lions
+Eastern_Illinois Panthers
+UT_Martin Skyhawks
+Little_Rock Trojans
+Southern_Indiana Screaming_Eagles
+Willamette Bearcats
+William_Peace Pacers
+DeSales Bulldogs
+PAC_12_1
+Utah Utes
+Oregon_State Beavers
+USC Trojans
+Washington Huskies
+UCLA Bruins
+Colorado Buffaloes
+Aurora Spartans
+Bluffton Beavers
+PAC_12_2
+Oregon Ducks
+Stanford Cardinal
+Washington_State Cougars
+California Golden_Bears
+Arizona Wildcats
+Arizona_State Sun_Devils
+Southwest_Baptist Bearcats
+Saint_Leo Lions
+Patriot_League_1
+Boston_University Terriers
+Navy Midshipmen
+Bucknell Bison
+Colgate Raiders
+American_University Eagles
+Rollins Tars
+Rockhurst Hawks
+Post Eagles
+Patriot_League_2
+Holy_Cross Crusaders
+Lafayette Leopards
+Lehigh Mountain_Hawks
+Army Black_Knights
+Loyola_Maryland Greyhounds
+Palm_Beach_Atlantic Sailfish
+Wisconsin-Parkside Rangers
+Pace Settlers
+SEC_1
+Auburn Tigers
+LSU Tigers
+Mississippi_State Bulldogs
+Missouri Tigers
+Alabama Crimson_Tide
+Arkansas Razorbacks
+Florida Gators
+Nyack Warriors
+SEC_2
+Georgia Bulldogs
+Kentucky Wildcats
+Tennessee Volunteers
+Texas_A&M Aggies
+Vanderbilt Commodores
+South_Carolina Gamecocks
+Ole_Miss Rebels
+North_Georgia Nighthawks
+Southwestern_Athletic_1
+Prairie_View_A&M Panthers
+Alcorn_State Braves
+Grambling Tigers
+Bethune_Cookman Wildcats
+Arknansas-Pine_Bluff Golden_Lions
+Southern Jaguars
+Molly Lions
+Miles Golden_Bears
+Southwestern_Athletic_2
+Texas_Southern Tigers
+Jackson_State Tigers
+Alabama_A&M Bulldogs
+Alabama_State Hornets
+Florida_A&M Rattlers
+Mississippi_Valley_State Delta_Devils
+Lynn Fighting_Knights
+Mary Marauders
+Southern_1
+Samford Bulldogs
+Western_Carolina Catamounts
+Wofford Terriers
+East_Tennessee_State Buccaneers
+Furman Paladins
+Livingstone Blue_Bears
+Lee Flames
+Lane Dragons
+Southern_2
+Mercer Bears
+VMI Keydets
+The_Citadel Bulldogs
+UNC_Greensboro Spartans
+Chattanooga Mocs
+Lake_Erie Storm
+King Tornados
+Kentucky_State Thorobreds
+Southland_1
+McNeese Cowboys
+Northwestern_State Demons
+Texas_A&M-Corpus_Christi Islanders
+Lamar Cardinals
+SE_Louisiana Lions
+Henderson_State Reddies
+Goldey-Beacom Lightning
+Glenville_State Pioneers
+Southland_2
+Nicholls Colonels
+Houston_Christian Huskies
+Incarnate_Word Cardinals 
+Texas_A&M-Commerce Lions
+New_Orleans Privateers
+FIT Panthers
+Fort_Hays_State Tigers
+Fort_Lewis Skyhawks
+Summit_League_1
+St._Thomas-Minnesota Tommies
+North_Dakota Fighting_Hawks
+Oral_Roberts Golden_Eagles
+South_Dakota Coyotes
+Kansas_City Roos
+Erskine Flying_Fleet
+Eastern_New_Mexico Greyhonds
+Eckerd Tritons
+Summit_League_2
+Omaha Mavericks
+South_Dakota_State Jackrabbits
+Western_Illinois Leathernecks
+North_Dakota_State Bison
+Davenport Panthers
+Clayton_State Lakers
+Chowan Hawks
+Claflin Panthers
+Sun_Belt_1
+Southern_Miss Golden_Eagles
+Louisiana Ragin'_Cajuns
+Troy Trojans
+James_Madison Dukes
+Marshall Thundering_Herd
+Appalachian_State Mountaineers
+Georgia_State Panthers
+Chadron_State Eagles
+Sun_Belt_2
+Arkansas_State Red_Wolves
+Texas_State Bobcats
+Georgia_Southern Eagles
+Old_Dominion Monarchs
+UL_Monroe Warhawks
+South_Alabama Jaguars
+Coastal_Carolina Chanticleers
+Cedarville Yellow_Jackets
+Western_Athletic_1
+Sam_Houston Bearkats
+Seattle_U Redhawks
+Stephen_F._Austin Lumberjacks
+Grand_Canyon Lopes
+UT_Rio_Grande_Valley Vaqueros
+California_Baptist Lancers
+Southern_Utah Thunderbirds
+Catawba Indians
+Western_Athletic_2
+Utah_Valley Wolverines
+New_Mexico_State Aggies
+UT_Arlington Mavericks
+Abilene_Christian Wildcats
+Utah_Tech Trailblazers
+Tarleton Texans
+Bowie_State Bulldogs
+Bloomfield Bears
+West_Coast_1
+San_Francisco Dons
+Saint_Mary's Gaels
+Pepperdine Waves
+San_Diego Toreros
+Gonzaga Bulldogs
+Benedict Tigers
+Augusta Jaguars
+Ashland Eagles
+West_Coast_2
+Santa_Clara Broncos
+Pacific Tigers
+Loyola_Marymount Lions
+Portland Pilots
+BYU Cougars
+Anderson Trojans
+Albany_State Golden_Rams
+Adams_State Grizzlies
